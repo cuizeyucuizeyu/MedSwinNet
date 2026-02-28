@@ -1,0 +1,15 @@
+einops==0.8.1
+grad_cam==1.5.4
+matplotlib==3.10.3
+mmcv_full==1.7.2
+numpy==1.23.0
+opencv_python==4.10.0.84
+Pillow==11.3.0
+prettytable==3.16.0
+PyQt5==5.15.11
+PyQt5_sip==12.17.0
+scikit_learn==1.7.0
+seaborn==0.13.2
+torch==2.3.1
+torchvision==0.18.1
+tqdm==4.65.2
